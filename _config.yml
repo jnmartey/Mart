@@ -2,7 +2,7 @@ name: 'My Fun Website'
 description: 'Greatness'
 tagline: 'yada yada'
 url: 'http://jnmartey.github.io'
-baseurl: '/SampleWebsite'
+baseurl: '/Mart'
 paginate: 10
 
 markdown: kramdown
